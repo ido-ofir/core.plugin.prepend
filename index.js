@@ -1,6 +1,6 @@
 
 module.exports = {
-    name: 'core.prepend',
+    name: 'core.plugin.prepend',
     extend: {
         prepend(prefix, text){
             if(text.indexOf(`${ prefix }.` !== 0)){
