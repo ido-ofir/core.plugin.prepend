@@ -1,6 +1,6 @@
 {
     "name": "core.plugin.prepend",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "prepend a string",
     "main": "index.js",
     "scripts": {
